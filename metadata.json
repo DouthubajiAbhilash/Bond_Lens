@@ -1,0 +1,6 @@
+{
+  "name": "ClauseGuard AI",
+  "description": "AI-powered legal and business document intelligence platform for contract analysis, risk detection, obligation tracking, and evidence-backed reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
